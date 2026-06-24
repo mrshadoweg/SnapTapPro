@@ -1,0 +1,15 @@
+SnapTap Pro
+SnapTap Pro is an open-source tool designed for mechanical keyboard enthusiasts to replicate advanced input features like "Snap Tap" and "Rapid Trigger".
+
+Features
+Precision Input: Optimized for competitive gaming to improve movement responsiveness.
+
+Mechanical Keyboard Support: Specifically engineered for keyboards utilizing magnetic switches.
+
+Lightweight & Efficient: Developed using C# to ensure minimal system impact while maintaining high performance.
+
+Getting Started
+To use this tool, simply run the executable and configure your settings to match your playstyle.
+
+Credits
+Developed by mrshadoweg.
